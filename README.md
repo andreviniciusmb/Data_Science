@@ -13,12 +13,12 @@ Repositório contendo portfólio de projetos de ciência de dados, concluídos p
 <ul>
   <li>Machine Learning
   <ul>
-    <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Market_Segmentation'>Segmentação de Clientes</a>/li>
+    <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Market_Segmentation'>Segmentação de Clientes</a></li>
     Modelo de aprendizagem não-supervisionada para descobrir grupos de clientes em um determinado segmento de mercado.
     <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Previsao_Futebol'>Previsão de resultados do Brasileirão</a></li>
     Modelo de aprendizagem supervisionada para tentar prever o resultado (Vitória do time de casa, vitória do time de fora, empate) de um jogo de futebol do Campeonato Brasileiro de Futebol Série A.
     </ul>
   </li>
 </ul>
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/andre-vinicius-mendes-barros-800410195/)
+## Links
+*[LinkedIn](https://www.linkedin.com/in/andre-vinicius-mendes-barros-800410195/)*
