@@ -21,4 +21,4 @@ Repositório contendo portfólio de projetos de ciência de dados, concluídos p
   </li>
 </ul>
 ## Links
-*[LinkedIn](https://www.linkedin.com/in/andre-vinicius-mendes-barros-800410195/)*
+<a href='https://www.linkedin.com/in/andre-vinicius-mendes-barros-800410195/'>Linkedin</a>
