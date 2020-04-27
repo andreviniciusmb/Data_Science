@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="imagem.jpg" >
-  <sub>*Fonte: https://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/*</sub>
+  <sub>Fonte: https://www.abgconsultoria.com.br/blog/afinal-o-que-e-data-science/</sub>
 </p>
 
 # André Vinícius
