@@ -18,6 +18,8 @@ Repositório contendo portfólio de projetos de ciência de dados, concluídos p
       Modelo de aprendizagem não-supervisionada para descobrir grupos de clientes em um determinado segmento de mercado.
       <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Previsao_Futebol'>Previsão de resultados do Brasileirão</a></li>
       Modelo de aprendizagem supervisionada para tentar prever o resultado (Vitória do time de casa, vitória do time de fora, empate) de um jogo de futebol do Campeonato Brasileiro de Futebol Série A.
+      <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/E_commerce'>E-commerce</a></li>
+      Este problema faz parte de um projeto do curso "Python para Data Science e Machine Learning" na seção de Regressão Linear. O objetivo é identificar se uma empresa deve gastar mais, melhorando a experiência dos clientes nos aplicativos móveis ou no site.
     </ul>
   </li>
 </ul>
