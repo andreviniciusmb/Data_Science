@@ -15,7 +15,7 @@ Repositório contendo portfólio de projetos de ciência de dados, concluídos p
   <li> Análise Exploratória
     <ul>
       <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Ligacoes_911'> Ligações para o 911</a></li>
-      Análise exploratória das ligações para o 911.
+      Este problema faz parte de um projeto do curso "Python para Data Science e Machine Learning". O objetivo é realizar uma análise exploratória das ligações para o 911.
     </ul>
   </li>
   <li>Machine Learning
