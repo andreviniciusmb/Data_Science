@@ -16,6 +16,8 @@ Repositório contendo portfólio de projetos de ciência de dados, concluídos p
     <ul>
       <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Ligacoes_911'> Ligações para o 911</a></li>
       Este problema faz parte de um projeto do curso "Python para Data Science e Machine Learning". O objetivo é realizar uma análise exploratória das ligações para o 911.
+      <li><a href='https://github.com/andreviniciusmb/Data_Science/tree/master/Mercado_Finaceiro'>Ações do Mercado Financeiro</a></li>
+      Este problema faz parte de um projeto do curso "Python para Data Science e Machine Learning". O objetivo é realizar uma análise exploratória das ações do mercado financeiro entre os anos de 2008 a 2020.
     </ul>
   </li>
   <li>Machine Learning
